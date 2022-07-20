@@ -32,7 +32,6 @@ Para iniciar o **Projeto** utilize os comandos:
 yarn install
 yarn serve
 ```
-
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080`.
 
 Feito por [Walisson Souza](https://github.com/walisson27)
